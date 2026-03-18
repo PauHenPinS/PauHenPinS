@@ -10,7 +10,7 @@
 
 ### Hard Skills
 
-#### Linguagens
+#### Languages
 <img
   align = "left"
   alt = "HTML"
@@ -47,7 +47,7 @@
   src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <br>
-#### Tecnologias
+#### Technologies
 
 <img
   align = "left"
@@ -81,7 +81,7 @@
   alt = "Git"
   title = "Git"
   width = "30px"
-  style = "padding-right: 10px;"
+  style = "filter: invert(1);"
   src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
   
@@ -90,7 +90,7 @@
   alt = "Github"
   title = "Github"
   width = "30px"
-  style = "padding-right: 10px;"
+  style = "padding-right: 10px; filter: invert(1);"
   src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 <!--
