@@ -4,7 +4,7 @@
 
 🌱 Currently learning algorithms, Java, and calculus, while preparing for a degree in Computer Science.
 
-💻 Passionate about coding and problem-solving.
+💻 Currently studying Data Structures and Algorithms using Java.
 
 <hr>
 
