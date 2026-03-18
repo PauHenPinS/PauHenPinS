@@ -47,7 +47,7 @@
   src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <br>
-#### Technologies
+#### Technologies and Tools I use
 
 <img
   align = "left"
@@ -91,7 +91,7 @@
   title = "Github"
   width = "30px"
   style = "padding-right: 10px; filter: invert(1);"
-  src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  src = "https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/github-auto.svg"
 />
 <!--
 **PauHenPinS/PauHenPinS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
